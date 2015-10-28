@@ -1,3 +1,4 @@
-# gopkg.in Stable APIs for the Go language
+# mastermind
 
-See [http://gopkg.in](http://gopkg.in).
+This is a simple proxy for GitHub which transforms arbitrary branches into
+both HEAD and master, so that they can be imported by Launchpad.
